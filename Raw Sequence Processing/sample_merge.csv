@@ -1,0 +1,469 @@
+Sample2,Species,Common_name,Taxa,Sex,Situ,Location,Country,CollectionYear,TissueStorage,SampleType,ExtractionKit,Environment
+Alytes-1,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-13,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-14,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-15,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-16,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-2,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-3,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-4,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-5,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-6,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Alytes-7,Alytes obstetricans,Common midwife toad,Amphibian,Unknown,Captive,"London Zoo, UK",Captive,2015,Frozen at -20C,Skin swab,Qiagen DNEasy kit,Freshwater
+Bufo-A1,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-A2,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-M1,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-S3,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-S6,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-T1-1,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-T1-2,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-T1-3,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-T1-4,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+Bufo-T3,Bufo bufo,Common toad,Amphibian,Juvenile,Wild,Norway,Norway,2009,70% ethanol,Whole tadpole,Phenol chlorophorm,Freshwater
+GH11,Triturus cristatus,Great-crested newt,Amphibian,Female,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH12,Triturus cristatus,Great-crested newt,Amphibian,Female,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH13,Triturus cristatus,Great-crested newt,Amphibian,Male,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH17,Triturus cristatus,Great-crested newt,Amphibian,Male,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH19,Triturus cristatus,Great-crested newt,Amphibian,Male,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH21,Triturus cristatus,Great-crested newt,Amphibian,Male,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH23,Triturus cristatus,Great-crested newt,Amphibian,Male,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH4,Triturus cristatus,Great-crested newt,Amphibian,Female,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH6,Triturus cristatus,Great-crested newt,Amphibian,Female,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+GH8,Triturus cristatus,Great-crested newt,Amphibian,Female,Wild,"Lancashire, UK",UK,2015,70% ethanol,Toe clip,Phenol chlorophorm,Freshwater
+A21,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+A24,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+B17,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+C18,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+C19,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+F23,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+G19,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+G25,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+H15,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+H21,Amietia hymenopus,Phofung river frog,Amphibian,Juvenile,Wild,"Mont-aux-Sources, Drakensberg National Park, South Africa",South Africa,2015,95% ethanol,Tadpole mouthparts,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+Bird25,Sylvia atricapilla,Blackcap,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird26,Sylvia atricapilla,Blackcap,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird27,Sylvia atricapilla,Blackcap,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird28,Sylvia atricapilla,Blackcap,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird29,Sylvia atricapilla,Blackcap,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird30,Sylvia atricapilla,Blackcap,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird31,Sylvia atricapilla,Blackcap,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird32,Sylvia atricapilla,Blackcap,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird33,Cyanistes caeruleus,Blue tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird34,Cyanistes caeruleus,Blue tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird35,Cyanistes caeruleus,Blue tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird36,Cyanistes caeruleus,Blue tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird37,Cyanistes caeruleus,Blue tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird38,Cyanistes caeruleus,Blue tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird39,Cyanistes caeruleus,Blue tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird40,Cyanistes caeruleus,Blue tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+CR10,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR13,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR14,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR16,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR17,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR18,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR20,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR26,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR3,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR4,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR7,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+CR8,Corvus corone,Carrion crow,Bird,Female,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Gut contents,Qiagen Microbiome kit,Terrestrial
+Bird65,Phylloscopus collybita,Chiffchaff,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2019,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird66,Phylloscopus collybita,Chiffchaff,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird67,Phylloscopus collybita,Chiffchaff,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird68,Phylloscopus collybita,Chiffchaff,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird69,Phylloscopus collybita,Chiffchaff,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird70,Phylloscopus collybita,Chiffchaff,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird71,Phylloscopus collybita,Chiffchaff,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird72,Phylloscopus collybita,Chiffchaff,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+E49,Streptopelia decaocto,Collared dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E51,Streptopelia decaocto,Collared dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E54,Streptopelia decaocto,Collared dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E94,Streptopelia decaocto,Collared dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E95,Streptopelia decaocto,Collared dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E96,Streptopelia decaocto,Collared dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E97,Streptopelia decaocto,Collared dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E98,Streptopelia decaocto,Collared dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2012,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+Bird49,Carduelis carduelis,Goldfinch,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird50,Carduelis carduelis,Goldfinch,Bird,Male,Wild,"Lincolnshire, UK",UK,2019,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird51,Carduelis carduelis,Goldfinch,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird52,Carduelis carduelis,Goldfinch,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird53,Carduelis carduelis,Goldfinch,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird54,Carduelis carduelis,Goldfinch,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird55,Carduelis carduelis,Goldfinch,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird56,Carduelis carduelis,Goldfinch,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird57,Parus major,Great tit,Bird,Female,Wild,"Lincolnshire, UK",UK,2019,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird58,Parus major,Great tit,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird59,Parus major,Great tit,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird60,Parus major,Great tit,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird61,Parus major,Great tit,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird62,Parus major,Great tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird63,Parus major,Great tit,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird64,Parus major,Great tit,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+LB-BG1,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG10,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG2,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG3,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG4,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG5,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG6,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG7,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG8,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+LB-BG9,Branta bernicla hrota,Light-bellied brent goose,Bird,Unknown,Wild,Iceland,Iceland,2017,Frozen at -20C,Faeces,Qiagen PowerSoil kit,Terrestrial
+Bird41,Emberiza schoeniclus,Reed bunting,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird42,Emberiza schoeniclus,Reed bunting,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird43,Emberiza schoeniclus,Reed bunting,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird44,Emberiza schoeniclus,Reed bunting,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird45,Emberiza schoeniclus,Reed bunting,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird46,Emberiza schoeniclus,Reed bunting,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird47,Emberiza schoeniclus,Reed bunting,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird48,Emberiza schoeniclus,Reed bunting,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird10,Acrocephalus scirpaceus,Reed warbler,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird11,Acrocephalus scirpaceus,Reed warbler,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird12,Acrocephalus scirpaceus,Reed warbler,Bird,Female,Wild,"Lincolnshire, UK",UK,2019,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird13,Acrocephalus scirpaceus,Reed warbler,Bird,Male,Wild,"Lincolnshire, UK",UK,2019,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird14,Acrocephalus scirpaceus,Reed warbler,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird15,Acrocephalus scirpaceus,Reed warbler,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird16,Acrocephalus scirpaceus,Reed warbler,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird9,Acrocephalus scirpaceus,Reed warbler,Bird,Female,Wild,"Lincolnshire, UK",UK,2019,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird17,Erithacus rubecula,Robin,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird18,Erithacus rubecula,Robin,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird19,Erithacus rubecula,Robin,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird20,Erithacus rubecula,Robin,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird21,Erithacus rubecula,Robin,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird22,Erithacus rubecula,Robin,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird23,Erithacus rubecula,Robin,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+Bird24,Erithacus rubecula,Robin,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Terrestrial
+T1,Turdus philomelos,Song thrush,Bird,Unknown,Wild,"Wenvoe, South Glamorgan, Wales",UK,2015,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+T19,Turdus philomelos,Song thrush,Bird,Unknown,Wild,"Wenvoe, South Glamorgan, Wales",UK,2015,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+T45,Turdus philomelos,Song thrush,Bird,Unknown,Wild,"Wenvoe, South Glamorgan, Wales",UK,2015,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+T53,Turdus philomelos,Song thrush,Bird,Unknown,Wild,"Wenvoe, South Glamorgan, Wales",UK,2015,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+T54,Turdus philomelos,Song thrush,Bird,Unknown,Wild,"Wenvoe, South Glamorgan, Wales",UK,2015,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+T66,Turdus philomelos,Song thrush,Bird,Unknown,Wild,"Wenvoe, South Glamorgan, Wales",UK,2015,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+T75,Turdus philomelos,Song thrush,Bird,Unknown,Wild,"Wenvoe, South Glamorgan, Wales",UK,2015,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+T85,Turdus philomelos,Song thrush,Bird,Unknown,Wild,"Wenvoe, South Glamorgan, Wales",UK,2015,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E99,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F1,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F10,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F11,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F12,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F2,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F3,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F5,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F8,Columba oenas,Stock dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E69,Streptopelia turtur,Turtle dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E75,Streptopelia turtur,Turtle dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E76,Streptopelia turtur,Turtle dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E81,Streptopelia turtur,Turtle dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2012,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E86,Streptopelia turtur,Turtle dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E88,Streptopelia turtur,Turtle dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2012,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+E89,Streptopelia turtur,Turtle dove,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F20,Columba palumbus,Woodpigeon,Bird,Unknown,Wild,"East Anglia, UK",UK,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F21,Columba palumbus,Woodpigeon,Bird,Unknown,Wild,"East Anglia, UK",UK,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F24,Columba palumbus,Woodpigeon,Bird,Unknown,Wild,"East Anglia, UK",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F31,Columba palumbus,Woodpigeon,Bird,Unknown,Wild,"East Anglia, UK",UK,2012,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F32,Columba palumbus,Woodpigeon,Bird,Unknown,Wild,"East Anglia, UK",UK,2014,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+F2114,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2117,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2118,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2119,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2120,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2132,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2171,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2189,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2190,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2191,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2197,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2294,Hypoplectrus puella,Barred hamlet,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+C10,Anguilla anguilla,European eel,Fish,Unknown,Wild,"River Crouch, Essex, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+C2,Anguilla anguilla,European eel,Fish,Unknown,Wild,"River Crouch, Essex, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+C8,Anguilla anguilla,European eel,Fish,Unknown,Wild,"River Crouch, Essex, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+C9A,Anguilla anguilla,European eel,Fish,Unknown,Wild,"River Crouch, Essex, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+C9B,Anguilla anguilla,European eel,Fish,Unknown,Wild,"River Crouch, Essex, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+HB1,Anguilla anguilla,European eel,Fish,Unknown,Wild,"Hether Burn, Cumbria, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+HB2,Anguilla anguilla,European eel,Fish,Unknown,Wild,"Hether Burn, Cumbria, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+HB3,Anguilla anguilla,European eel,Fish,Unknown,Wild,"Hether Burn, Cumbria, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+HB4,Anguilla anguilla,European eel,Fish,Unknown,Wild,"Hether Burn, Cumbria, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+HB6,Anguilla anguilla,European eel,Fish,Unknown,Wild,"Hether Burn, Cumbria, England",UK,2009,Frozen at -20C,Gut contents,Qiagen PowerSoil kit,Freshwater
+F2390,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2394,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2397,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2405,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2407,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2417,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2418,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2421,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2436,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+F2446,Chaetodon capistratus,Foureye butterflyfish,Fish,Unknown,Wild,"Bocas del Toro, Bahia Almirante",Panama,2018,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Bird1,Emberiza citrinella,Yellowhammer,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Marine
+Bird2,Emberiza citrinella,Yellowhammer,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Marine
+Bird3,Emberiza citrinella,Yellowhammer,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Marine
+Bird4,Emberiza citrinella,Yellowhammer,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Marine
+Bird5,Emberiza citrinella,Yellowhammer,Bird,Male,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Marine
+Bird6,Emberiza citrinella,Yellowhammer,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Marine
+Bird7,Emberiza citrinella,Yellowhammer,Bird,Unknown,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Marine
+Bird8,Emberiza citrinella,Yellowhammer,Bird,Female,Wild,"Lincolnshire, UK",UK,2018,Frozen at -20C,Faeces,Qiagen PowerSoil Pro kit,Marine
+Y01-3-CC33,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Caye Caulker, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y1-GLS2,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Glover's Reef, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y10-CC52,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Glover's Reef, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y11-GLS2,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Glover's Reef, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y13-2-CC33,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Caye Caulker, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y16-2GLS1,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Glover's Reef, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y4-2GLS1,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Glover's Reef, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y6-CCS2,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Caye Caulker, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y7-GLS2,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Glover's Reef, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+Y9-GLS2,Halichoeres garnoti,Yellowhead wrasse,Fish,Unknown,Wild,"Glover's Reef, Belize",Belize,2015,95% ethanol,Gut contents,Qiagen PowerSoil kit with proteinase K,Marine
+APW1,Rhynchophorus phoenicis,African palm weevil larvae,Invertebrate,Unknown,Wild,"Sapele Town, Delta State, Nigeria",Nigeria,2019,Frozen at -20C,Gut contents,ZymoBIOMICS DNA mini kit,Terrestrial
+APW2,Rhynchophorus phoenicis,African palm weevil larvae,Invertebrate,Unknown,Wild,"Sapele Town, Delta State, Nigeria",Nigeria,2019,Frozen at -20C,Gut contents,ZymoBIOMICS DNA mini kit,Terrestrial
+APW3,Rhynchophorus phoenicis,African palm weevil larvae,Invertebrate,Unknown,Wild,"Sapele Town, Delta State, Nigeria",Nigeria,2019,Frozen at -20C,Gut contents,ZymoBIOMICS DNA mini kit,Terrestrial
+APW4,Rhynchophorus phoenicis,African palm weevil larvae,Invertebrate,Unknown,Wild,"Sapele Town, Delta State, Nigeria",Nigeria,2019,Frozen at -20C,Gut contents,ZymoBIOMICS DNA mini kit,Terrestrial
+APW5,Rhynchophorus phoenicis,African palm weevil larvae,Invertebrate,Unknown,Wild,"Sapele Town, Delta State, Nigeria",Nigeria,2019,Frozen at -20C,Gut contents,ZymoBIOMICS DNA mini kit,Terrestrial
+APW6,Rhynchophorus phoenicis,African palm weevil larvae,Invertebrate,Unknown,Wild,"Sapele Town, Delta State, Nigeria",Nigeria,2019,Frozen at -20C,Gut contents,ZymoBIOMICS DNA mini kit,Terrestrial
+BC1,Portunus segnis,Blue swimming crab,Invertebrate,Unknown,Wild,Malta,Malta,2018,70% ethanol,Gut contents,QIAamp Fast DNA Stool Mini kit ,Marine
+BC2,Portunus segnis,Blue swimming crab,Invertebrate,Unknown,Wild,Malta,Malta,2018,70% ethanol,Gut contents,QIAamp Fast DNA Stool Mini kit ,Marine
+BC3,Portunus segnis,Blue swimming crab,Invertebrate,Unknown,Wild,Malta,Malta,2018,70% ethanol,Gut contents,QIAamp Fast DNA Stool Mini kit ,Marine
+BC4,Portunus segnis,Blue swimming crab,Invertebrate,Unknown,Wild,Malta,Malta,2018,70% ethanol,Gut contents,QIAamp Fast DNA Stool Mini kit ,Marine
+BC5,Portunus segnis,Blue swimming crab,Invertebrate,Unknown,Wild,Malta,Malta,2018,70% ethanol,Gut contents,QIAamp Fast DNA Stool Mini kit ,Marine
+LFG1,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG16,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG2,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG3,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG4,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG5,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG6,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG7,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG8,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+LFG9,Crangon crangon,Brown shrimp,Invertebrate,Unknown,Wild,"Lancashire, UK",UK,2018,Buffer AE ,Gut contents,Qiagen Blood and Tissue kit with proteinase K,Freshwater
+B4,Diploptera punctata,Cockroach,Invertebrate,Male,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+F7M,Diploptera punctata,Cockroach,Invertebrate,Unknown,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+GJ2,Diploptera punctata,Cockroach,Invertebrate,Unknown,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+H5D,Diploptera punctata,Cockroach,Invertebrate,Female,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+IGA,Diploptera punctata,Cockroach,Invertebrate,Male,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+IGF,Diploptera punctata,Cockroach,Invertebrate,Male,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+J5A,Diploptera punctata,Cockroach,Invertebrate,Male,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+J5B,Diploptera punctata,Cockroach,Invertebrate,Male,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+J5C,Diploptera punctata,Cockroach,Invertebrate,Male,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+N5,Diploptera punctata,Cockroach,Invertebrate,Male,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+P5,Diploptera punctata,Cockroach,Invertebrate,Unknown,Captive,"Manchester, UK",Captive,2018,Liquid nitrogen and frozen at -80¡C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+CS01,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS02,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS03,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS04,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS05,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS06,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS07,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS08,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS09,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+CS10,Cinachyrella sp.,Golfball sponge,Invertebrate,NA,Wild,"Florida Keys, USA",USA,2012,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+LF23,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+LF29,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+LF3,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+LF33,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+LF6,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+RM16,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+RM19,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+RM20,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+RM21,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+RM22,Amblyomma rotundatum,Hard tick,Invertebrate,Unknown,Wild,"Montserrat, Caribbean",Montserrat,2014,70% ethanol,Whole tick,Alkaline digest and ethanol precipitation,Terrestrial
+AGE3,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+AND106-3,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+BPO10,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+CAT3,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+GB5,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+JGPH2,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2017,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+LVA4,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+MAD3,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+MAN3,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+PBO3,Apis mellifera,Honey bee,Invertebrate,Female,Wild,North West of England,UK,2016,100% ethanol and frozen at -20C,Gut contents,Qiagen Blood and Tissue kit with proteinase K and lysozyme,Terrestrial
+SV01,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV02,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV03,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV04,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV05,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV06,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV07,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV08,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV09,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+SV10,Spheciospongia vesparium,Loggerhead sponge,Invertebrate,NA,Wild,"Little Crane Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+TF14,Glossina fuscipes,Tsetse fly,Invertebrate,Female,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+TF15,Glossina fuscipes,Tsetse fly,Invertebrate,Female,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+TF16,Glossina fuscipes,Tsetse fly,Invertebrate,Male,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+TF17,Glossina fuscipes,Tsetse fly,Invertebrate,Male,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+TF18,Glossina fuscipes,Tsetse fly,Invertebrate,Female,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+TF19,Glossina fuscipes,Tsetse fly,Invertebrate,Female,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+TF20,Glossina fuscipes,Tsetse fly,Invertebrate,Female,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+TF21,Glossina fuscipes,Tsetse fly,Invertebrate,Female,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+TF29,Glossina fuscipes,Tsetse fly,Invertebrate,Female,Wild,"Patira East, Uganda",Uganda,2019,70% ethanol,Whole insect,Qiagen Blood and Tissue kit with proteinase K,Terrestrial
+IC01,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC02,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC03,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC04,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC05,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC06,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC07,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC08,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC09,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+IC10,Ircinia campana,Vase sponge,Invertebrate,NA,Wild,"Long Key, Florida, USA",USA,2014,95% ethanol,Tissue (choanosome),Qiagen Blood and Tissue kit with proteinase K,Marine
+G203,Myodes glareolus,Bank vole,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G209,Myodes glareolus,Bank vole,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G210,Myodes glareolus,Bank vole,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G211,Myodes glareolus,Bank vole,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G215,Myodes glareolus,Bank vole,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G216,Myodes glareolus,Bank vole,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G217,Myodes glareolus,Bank vole,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G218,Myodes glareolus,Bank vole,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G219,Myodes glareolus,Bank vole,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+G220,Myodes glareolus,Bank vole,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Gut contents,Invitrogen Microbiome kit,Terrestrial
+J124,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J126,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J138,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J146,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J147,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J163,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J169,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J176,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J189,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+J196,Sapajus libidinosus,Capuchin monkey,Mammal,Unknown,Wild,"Serra Talhada, State of Pernambuco, Brazil",Brazil,2017,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R1,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R101,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R109,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R113,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R130,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R137,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R147,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R20,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R27,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+R49,Diceros bicornis michaeli,Eastern black rhino,Mammal,Female,Captive,"Chester Zoo, Cheshire, UK",Captive,2011,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+Shrew10,Crocidura russula,Greater white-toothed shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew11,Crocidura russula,Greater white-toothed shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew18,Crocidura russula,Greater white-toothed shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew2,Crocidura russula,Greater white-toothed shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew20,Crocidura russula,Greater white-toothed shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew3,Crocidura russula,Greater white-toothed shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew4,Crocidura russula,Greater white-toothed shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew5,Crocidura russula,Greater white-toothed shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew6,Crocidura russula,Greater white-toothed shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew7,Crocidura russula,Greater white-toothed shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+GS1,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS10,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS11,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS12,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS2,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS3,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS4,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS5,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS6,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS7,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS8,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+GS9,Sciurus carolinensis,Grey squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H18,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H19,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H21x,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H23,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H24,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H27,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H3,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H30,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H34,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H35,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H5,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+H6,Erinaceus europaeus,Hedgehog,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+LJ250816-20,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Unknown,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-29,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Female,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-3,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Male,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-31,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Female,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-34,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Male,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-35A,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Female,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-35B,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Female,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-39,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Male,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-5,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Unknown,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+LJ250816-6,Rhinolophus hipposideros,Lesser horseshoe bat,Mammal,Female,Wild,"Killarney, County Kerry, Ireland",Ireland,2016,Frozen at -20C,Faeces,Zymo DNA Extraction kit,Terrestrial
+M08,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Espirito Santo, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M11,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Espirito Santo, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M18,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Espirito Santo, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M20,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Espirito Santo, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M24,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Minas Gerais, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M41,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Espirito Santo, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M79,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Espirito Santo, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M83,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Minas Gerais, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M85,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Espirito Santo, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+M93,Brachyteles hypoxanthus,Northern muriqui,Mammal,Unknown,Wild,"Caparao National Park, Minas Gerais, Brazil",Brazil,2017/18,RNA Later,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+Shrew1,Sorex minutus,Pygmy shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew12,Sorex minutus,Pygmy shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew13,Sorex minutus,Pygmy shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew14,Sorex minutus,Pygmy shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew15,Sorex minutus,Pygmy shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew16,Sorex minutus,Pygmy shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew17,Sorex minutus,Pygmy shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew19,Sorex minutus,Pygmy shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew8,Sorex minutus,Pygmy shrew,Mammal,Female,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+Shrew9,Sorex minutus,Pygmy shrew,Mammal,Male,Wild,"Belle Ile, France",France,2018,100% ethanol and frozen at -20C,Gut contents,Qiagen PowerSoil kit,Terrestrial
+DH10,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH11,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH12,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH2,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH3,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH4,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH5,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH6,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH7,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+DH8,Cervus elaphus,Red deer,Mammal,Unknown,Wild,"Dowth, County Louth",Ireland,2018,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+RS1,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS10,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS11,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS12,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS2,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS3,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS4,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS5,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS6,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS7,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS8,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+RS9,Sciurus vulgaris,Red squirrel,Mammal,Unknown,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+ROE1,Capreolus capreolus,Roe deer,Mammal,Male,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+ROE2,Capreolus capreolus,Roe deer,Mammal,Male,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+ROE3,Capreolus capreolus,Roe deer,Mammal,Male,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+ROE4,Capreolus capreolus,Roe deer,Mammal,Male,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+ROE5,Capreolus capreolus,Roe deer,Mammal,Male,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+ROE6,Capreolus capreolus,Roe deer,Mammal,Male,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+ROE7,Capreolus capreolus,Roe deer,Mammal,Male,Wild,"Cumbria, UK",UK,2019,Frozen at -20C,Faeces,Qiagen Microbiome kit,Terrestrial
+CV103,Apodemus agrarius,Striped field mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV131,Apodemus agrarius,Striped field mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV144,Apodemus agrarius,Striped field mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV145,Apodemus agrarius,Striped field mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV156,Apodemus agrarius,Striped field mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV159,Apodemus agrarius,Striped field mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV163,Apodemus agrarius,Striped field mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV179,Apodemus agrarius,Striped field mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV191,Apodemus agrarius,Striped field mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV20,Apodemus agrarius,Striped field mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+P10,Equus ferus caballus,Wild pony,Mammal,Female,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P100,Equus ferus caballus,Wild pony,Mammal,Female,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P103,Equus ferus caballus,Wild pony,Mammal,Female,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P104,Equus ferus caballus,Wild pony,Mammal,Male,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P107,Equus ferus caballus,Wild pony,Mammal,Female,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P108,Equus ferus caballus,Wild pony,Mammal,Male,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P111,Equus ferus caballus,Wild pony,Mammal,Female,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P115,Equus ferus caballus,Wild pony,Mammal,Male,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P116,Equus ferus caballus,Wild pony,Mammal,Male,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+P48,Equus ferus caballus,Wild pony,Mammal,Male,Wild,"Snowdonia National Park, Wales",UK,2013,Frozen at -20C,Faeces,QIAamp Fast DNA Stool Mini kit ,Terrestrial
+CV100,Apodemus sylvaticus,Wood mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV105,Apodemus sylvaticus,Wood mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV2,Apodemus sylvaticus,Wood mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV31,Apodemus sylvaticus,Wood mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV34,Apodemus sylvaticus,Wood mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV4,Apodemus sylvaticus,Wood mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV45,Apodemus sylvaticus,Wood mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV5,Apodemus sylvaticus,Wood mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV6,Apodemus sylvaticus,Wood mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV80,Apodemus sylvaticus,Wood mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV104,Apodemus flavicollis,Yellow-necked mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV109,Apodemus flavicollis,Yellow-necked mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV111,Apodemus flavicollis,Yellow-necked mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV124,Apodemus flavicollis,Yellow-necked mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV132,Apodemus flavicollis,Yellow-necked mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV141,Apodemus flavicollis,Yellow-necked mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV142,Apodemus flavicollis,Yellow-necked mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV151,Apodemus flavicollis,Yellow-necked mouse,Mammal,Male,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV160,Apodemus flavicollis,Yellow-necked mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
+CV166,Apodemus flavicollis,Yellow-necked mouse,Mammal,Female,Wild,"Chernobyl, Ukraine",Ukraine,2017,100% ethanol and frozen at -20C,Faeces,Invitrogen Microbiome kit,Terrestrial
