@@ -1,0 +1,17 @@
+Common_name,Diet-PlantO,Diet-Inv,Diet-Seed,Diet-Fruit,Diet-Vend,Diet-Vect,Diet-Vfish,Diet-Vunk,Diet-Scav,Diet-Nect
+Roe deer,100,0,0,0,0,0,0,0,0,0
+Red deer,100,0,0,0,0,0,0,0,0,0
+Eastern black rhino,100,0,0,0,0,0,0,0,0,0
+Wild pony,100,0,0,0,0,0,0,0,0,0
+Northern muriqui,70,0,0,20,0,0,0,0,0,10
+Bank vole,50,20,30,0,0,0,0,0,0,0
+Striped field mouse,40,20,20,20,0,0,0,0,0,0
+Yellow-necked mouse,40,20,20,20,0,0,0,0,0,0
+Wood mouse,40,20,20,20,0,0,0,0,0,0
+Grey squirrel,30,0,50,20,0,0,0,0,0,0
+Red squirrel,30,0,50,20,0,0,0,0,0,0
+Capuchin monkey,10,20,0,40,0,0,0,10,0,20
+Lesser horseshoe bat,0,100,0,0,0,0,0,0,0,0
+Hedgehog,0,80,0,0,10,10,0,0,0,0
+Pygmy shrew,0,70,0,0,0,0,0,0,30,0
+Greater white-toothed shrew,0,50,0,0,0,10,0,0,40,0
